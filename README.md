@@ -6,6 +6,9 @@ AI safety research remains overwhelmingly English-centric, leaving Italian compa
 
 The repository aims to provide a focused starting point for researchers working on Italian-language AI safety and to make the growing body of Italian-specific work easier to discover and reuse.
 
+> [!NOTE]
+> This collection is incomplete and currently under construction. The listings below are not exhaustive: entries are still being gathered and reviewed, and sections, links, and metadata may change as the repository evolves.
+
 ## Scope
 
 This repository focuses on broad, holistic AI safety in Italian, covering resources that address multiple dimensions of safety, such as harmful content, bias, toxicity, privacy, security, and robustness. Works narrowly focused on a single dimension are currently out of scope.
@@ -20,7 +23,6 @@ This repository focuses on broad, holistic AI safety in Italian, covering resour
 - **AI Safety Lost in Translation: Evaluating the Effectiveness of English-Italian Cross-Lingual LLM Safety Alignment** &mdash; Wu & Brandao, LREC 2026 [[PDF](https://aclanthology.org/2026.lrec-1.296.pdf)]
 - **Guarding the Guardrails: A Taxonomy-Driven Approach to Jailbreak Detection** &mdash; Giarrusso et al., IASEAI 2026 [[PDF](https://arxiv.org/abs/2510.13893)]
 - **Who Would You Vote For? Auditing Political Alignment in LLMs: An Italian Case-Study.** &mdash; Mungari, arXiv 2026 [[PDF](https://arxiv.org/abs/2608.11649)] [[Code](https://github.com/SimoneMungari/AuditingPoliticalAlignmentInLLMs)]
-
 
 ### 2025
 
