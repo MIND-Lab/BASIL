@@ -1,13 +1,14 @@
 # 🌿 BASIL - Broad AI Safety for Italian Language
 
-A curated list of publications, datasets, and models for broad AI safety in the Italian language.
+A curated collection of publications, datasets, and models focused on broad AI safety in the Italian language.
 
-AI safety research is still overwhelmingly English-centric, which leaves the Italian
-language under-evaluated. This list collects the resources that specifically address Italian: safety benchmarks, guardrail models, and the peer-reviewed work behind them.
+AI safety research remains overwhelmingly English-centric, leaving Italian comparatively under-evaluated. This list collects the resources that specifically address Italian: safety benchmarks, guardrail models, and the peer-reviewed work behind them.
+
+The repository aims to provide a focused starting point for researchers working on Italian-language AI safety and to make the growing body of Italian-specific work easier to discover and reuse.
 
 ## Scope
 
-This repository collects resources that specifically address broad AI safety in the Italian language. The focus is on evaluating and mitigating risks associated with large language models and other AI systems.
+This repository focuses on broad, holistic AI safety in Italian, covering resources that address multiple dimensions of safety, such as harmful content, bias, toxicity, privacy, security, and robustness. Works narrowly focused on a single dimension are currently out of scope.
 
 ## Publications
 
