@@ -14,28 +14,28 @@ This repository focuses on broad, holistic AI safety in Italian, covering resour
 
 ### 2026
 
-- The Effects of Benevolent Fine-tuning on the Safety of the Italian Large Language Models &mdash; Pulerà et al., CLIC-it 2026
-- "Capisci a me": The Hidden Risks of Regional Language Processing in LLMs &mdash; Magazzù et al., CLIC-it 2026 [[Code](https://github.com/saiteki-kai/safety-italian-dialects)]
-- Mind the Language Gap: Assessing LLM Safety in Italian &mdash; Marafatto & Navigli, LREC 2026 [[PDF](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.365.pdf)] [[Poster](https://f003.backblazeb2.com/file/lrec-media/lrec2026/posters/1391.pdf)] [[Code](https://github.com/SapienzaNLP/SafeLLM-it)]
-- Guarding the Guardrails: A Taxonomy-Driven Approach to Jailbreak Detection &mdash; Giarrusso et al., IASEAI 2026 [[PDF](https://arxiv.org/abs/2510.13893)]
-- Who Would You Vote For? Auditing Political Alignment in LLMs: An Italian Case-Study. &mdash; Mungari, arXiv 2026 [[PDF](https://arxiv.org/abs/2608.11649)]
+- **The Effects of Benevolent Fine-tuning on the Safety of the Italian Large Language Models** &mdash; Pulerà et al., CLIC-it 2026
+- **"Capisci a me": The Hidden Risks of Regional Language Processing in LLMs** &mdash; Magazzù et al., CLIC-it 2026 [[Code](https://github.com/saiteki-kai/safety-italian-dialects)]
+- **Mind the Language Gap: Assessing LLM Safety in Italian** &mdash; Marafatto & Navigli, LREC 2026 [[PDF](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.365.pdf)] [[Poster](https://f003.backblazeb2.com/file/lrec-media/lrec2026/posters/1391.pdf)] [[Code](https://github.com/SapienzaNLP/SafeLLM-it)]
+- **Guarding the Guardrails: A Taxonomy-Driven Approach to Jailbreak Detection** &mdash; Giarrusso et al., IASEAI 2026 [[PDF](https://arxiv.org/abs/2510.13893)]
+- **Who Would You Vote For? Auditing Political Alignment in LLMs: An Italian Case-Study.** &mdash; Mungari, arXiv 2026 [[PDF](https://arxiv.org/abs/2608.11649)] [[Code](https://github.com/SimoneMungari/AuditingPoliticalAlignmentInLLMs)]
 
 ### 2025
 
-- BeaverTails-IT: Towards A Safety Benchmark for Evaluating Italian Large Language Models &mdash; Magazzù et al. &mdash; CLiC-it 2025 [[PDF](https://clic2025.unica.it/wp-content/uploads/2025/09/59_main_long.pdf)]
-- Uncovering Unsafety Traits in Italian Language Models &mdash; Rizzi et al., CLiC-it 2025 [[PDF](https://aclanthology.org/2025.clicit-1.91.pdf)]
+- **BeaverTails-IT: Towards A Safety Benchmark for Evaluating Italian Large Language Models** &mdash; Magazzù et al., CLiC-it 2025 [[PDF](https://clic2025.unica.it/wp-content/uploads/2025/09/59_main_long.pdf)]
+- **Uncovering Unsafety Traits in Italian Language Models** &mdash; Rizzi et al., CLiC-it 2025 [[PDF](https://aclanthology.org/2025.clicit-1.91.pdf)]
 
 ### 2024
 
-- Compromesso! Italian Many-Shot Jailbreaks Undermine the Safety of Large Language Models &mdash; Pernisi et al., ACL 2024 [[PDF](https://arxiv.org/abs/2408.04522)]
+- **Compromesso! Italian Many-Shot Jailbreaks Undermine the Safety of Large Language Models** &mdash; Pernisi et al., ACL 2024 [[PDF](https://arxiv.org/abs/2408.04522)] [[Code](https://github.com/fabiopernisi/ita-many-shots-jailbreaking)]
 
 ## Datasets
 
 - [SafeLLM-it](https://github.com/SapienzaNLP/SafeLLM-it)
 - [BeaverTails-IT](https://huggingface.co/datasets/MIND-Lab/BeaverTails-IT)
 - [BeaverTails-IT-Evaluation](https://huggingface.co/datasets/MIND-Lab/BeaverTails-IT-Evaluation)
-- [MMLU-Redux Dialects](saiteki-kai/mmlu-redux-dialects)
-- [XSTest Dialects](saiteki-kai/xstest-dialects)
+- [MMLU-Redux Dialects](https://huggingface.co/datasets/saiteki-kai/mmlu-redux-dialects)
+- [XSTest Dialects](https://huggingface.co/datasets/saiteki-kai/xstest-dialects)
 
 ## Models
 
