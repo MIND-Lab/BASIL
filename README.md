@@ -17,8 +17,8 @@ This repository focuses on broad, holistic AI safety in Italian, covering resour
 
 ### 2026
 
-- **The Effects of Benevolent Fine-tuning on the Safety of the Italian Large Language Models** &mdash; Pulerà et al., CLIC-it 2026
-- **"Capisci a me": The Hidden Risks of Regional Language Processing in LLMs** &mdash; Magazzù et al., CLIC-it 2026 [[Code](https://github.com/saiteki-kai/safety-italian-dialects)]
+- **The Effects of Benevolent Fine-tuning on the Safety of the Italian Large Language Models** &mdash; Pulerà et al., CLIC-it 2026 [[PDF](https://clic2026.unipa.it/wp-content/uploads/2026/09/82_main_long.pdf)]
+- **"Capisci a me": The Hidden Risks of Regional Language Processing in LLMs** &mdash; Magazzù et al., CLIC-it 2026 [[PDF](https://clic2026.unipa.it/wp-content/uploads/2026/09/63_main_long.pdf)] [[Code](https://github.com/saiteki-kai/safety-italian-dialects)]
 - **Mind the Language Gap: Assessing LLM Safety in Italian** &mdash; Marafatto & Navigli, LREC 2026 [[PDF](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.365.pdf)] [[Poster](https://f003.backblazeb2.com/file/lrec-media/lrec2026/posters/1391.pdf)] [[Code](https://github.com/SapienzaNLP/SafeLLM-it)]
 - **AI Safety Lost in Translation: Evaluating the Effectiveness of English-Italian Cross-Lingual LLM Safety Alignment** &mdash; Wu & Brandao, LREC 2026 [[PDF](https://aclanthology.org/2026.lrec-1.296.pdf)]
 - **Guarding the Guardrails: A Taxonomy-Driven Approach to Jailbreak Detection** &mdash; Giarrusso et al., IASEAI 2026 [[PDF](https://arxiv.org/abs/2510.13893)]
