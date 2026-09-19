@@ -22,7 +22,8 @@ This repository focuses on broad, holistic AI safety in Italian, covering resour
 - **Mind the Language Gap: Assessing LLM Safety in Italian** &mdash; Marafatto & Navigli, LREC 2026 [[PDF](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.365.pdf)] [[Poster](https://f003.backblazeb2.com/file/lrec-media/lrec2026/posters/1391.pdf)] [[Code](https://github.com/SapienzaNLP/SafeLLM-it)]
 - **AI Safety Lost in Translation: Evaluating the Effectiveness of English-Italian Cross-Lingual LLM Safety Alignment** &mdash; Wu & Brandao, LREC 2026 [[PDF](https://aclanthology.org/2026.lrec-1.296.pdf)]
 - **Guarding the Guardrails: A Taxonomy-Driven Approach to Jailbreak Detection** &mdash; Giarrusso et al., IASEAI 2026 [[PDF](https://arxiv.org/abs/2510.13893)]
-- **Who Would You Vote For? Auditing Political Alignment in LLMs: An Italian Case-Study.** &mdash; Mungari, arXiv 2026 [[PDF](https://arxiv.org/abs/2608.11649)] [[Code](https://github.com/SimoneMungari/AuditingPoliticalAlignmentInLLMs)]
+- **"Learning from Mistakes: Can LLM Self-recover after Misalignment?": Examining the LLM's ability to self-recover after misalignment.** &mdash; Sorokoletova et. al., AAAI26 WS37 [[PDF](https://arxiv.org/pdf/2606.00003)]
+- **Who Would You Vote For? Auditing Political Alignment in LLMs: An Italian Case-Study** &mdash; Mungari, arXiv 2026 [[PDF](https://arxiv.org/abs/2608.11649)] [[Code](https://github.com/SimoneMungari/AuditingPoliticalAlignmentInLLMs)]
 
 ### 2025
 
@@ -53,3 +54,5 @@ BeaverTails Safety Classifiers:
 ## Multilingual Resources (coming soon)
 
 Multilingual resources for broad AI safety that include Italian will be added in the future. This section will cover datasets, models, and publications that address AI safety across multiple languages and would be relevant and useful for Italian language research.
+
+Works that merely include Italian as one of many languages will not be listed here, unless they provide specific insights or evaluations for Italian.
