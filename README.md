@@ -37,13 +37,31 @@ This repository focuses on broad, holistic AI safety in Italian, covering resour
 
 ## Datasets
 
+<style>
+table th:first-of-type {
+    width: 25%;
+}
+table th:nth-of-type(2) {
+    width: 5%;
+}
+table th:nth-of-type(4) {
+    width: 5%;
+}
+table th:nth-of-type(5) {
+    width: 5%;
+}
+table th:nth-of-type(6) {
+    width: 5%;
+}
+</style>
+
 | Dataset | Year | Description | Languages | Links | License |
 | --- | --- | --- | --- | --- | --- |
-| **SafeLLM-it** | 2026 | Culturally grounded Italian safety benchmark of 1,762 manually categorized Italian Wikipedia pages and 5,286 generated prompts probing refusal behavior, moderation consistency, and unsafe content generation. | Italian | [[GitHub](https://github.com/SapienzaNLP/SafeLLM-it)] [[Paper](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.365.pdf)] | CC BY-NC-SA 4.0 |
-| **MMLU-Redux-IT** | 2026 | MMLU-Redux translated into Italian and local languages to study how dialectal input affects model understanding and safety. | Italian, Venetian, Lombard, Friulian, Ligurian, Sicilian (+ English source) | [[Hugging Face](https://huggingface.co/datasets/saiteki-kai/MMLU-Redux-IT)] [[Paper](https://clic2026.unipa.it/wp-content/uploads/2026/09/63_main_long.pdf)] | CC BY 4.0 |
-| **XSTest-IT** | 2026 | XSTest prompts translated into Italian and local languages, preserving the safe/unsafe contrast labels for dialectal safety evaluation. | Italian, Venetian, Lombard, Friulian, Ligurian, Sicilian (+ English source) | [[Hugging Face](https://huggingface.co/datasets/saiteki-kai/XSTest-IT)] [[Paper](https://clic2026.unipa.it/wp-content/uploads/2026/09/63_main_long.pdf)] | CC BY 4.0 |
-| **BeaverTails-IT** | 2025 | Italian machine-translated version of BeaverTails, with parallel translations from five state-of-the-art MT models; 330k question-answer pairs. | Italian (from English) | [[Hugging Face](https://huggingface.co/datasets/MIND-Lab/BeaverTails-IT)] [[Paper](https://clic2025.unica.it/wp-content/uploads/2025/09/59_main_long.pdf)] | CC BY-NC 4.0 |
-| **BeaverTails-IT-Evaluation** | 2025 | Italian machine-translated version of BeaverTails-Evaluation: 700 prompts spanning 14 safety categories, used with fine-tuned classifiers and human judgment to assess seven Italian LLMs. | Italian (from English) | [[Hugging Face](https://huggingface.co/datasets/MIND-Lab/BeaverTails-IT-Evaluation)] [[Paper](https://aclanthology.org/2025.clicit-1.91.pdf)] | CC BY-NC 4.0 |
+| **SafeLLM-it** | 2026 | Culturally grounded Italian safety benchmark of 1,762 manually categorized Italian Wikipedia pages and 5,286 generated prompts probing refusal behavior, moderation consistency, and unsafe content generation. | Italian | [<img alt="GitHub" src="https://cdn.simpleicons.org/github/57606a" width="16" height="16">](https://github.com/SapienzaNLP/SafeLLM-it) [<img alt="Paper" src="https://api.iconify.design/mdi/file-document-outline.svg?color=%2357606a" width="16" height="16">](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.365.pdf) | CC BY-NC-SA 4.0 |
+| **MMLU-Redux-IT** | 2026 | MMLU-Redux translated into Italian and local languages to study how dialectal input affects model understanding and safety. | Italian, Venetian, Lombard, Friulian, Ligurian, Sicilian | [<img alt="Hugging Face" src="https://cdn.simpleicons.org/huggingface/FFD21E" width="16" height="16">](https://huggingface.co/datasets/saiteki-kai/MMLU-Redux-IT) [<img alt="Paper" src="https://api.iconify.design/mdi/file-document-outline.svg?color=%2357606a" width="16" height="16">](https://clic2026.unipa.it/wp-content/uploads/2026/09/63_main_long.pdf) | CC BY 4.0 |
+| **XSTest-IT** | 2026 | XSTest prompts translated into Italian and local languages, preserving the safe/unsafe contrast labels for dialectal safety evaluation. | Italian, Venetian, Lombard, Friulian, Ligurian, Sicilian | [<img alt="Hugging Face" src="https://cdn.simpleicons.org/huggingface/FFD21E" width="16" height="16">](https://huggingface.co/datasets/saiteki-kai/XSTest-IT) [<img alt="Paper" src="https://api.iconify.design/mdi/file-document-outline.svg?color=%2357606a" width="16" height="16">](https://clic2026.unipa.it/wp-content/uploads/2026/09/63_main_long.pdf) | CC BY 4.0 |
+| **BeaverTails-IT** | 2025 | Italian machine-translated version of BeaverTails, with parallel translations from five state-of-the-art MT models; 330k question-answer pairs. | Italian | [<img alt="Hugging Face" src="https://cdn.simpleicons.org/huggingface/FFD21E" width="16" height="16">](https://huggingface.co/datasets/MIND-Lab/BeaverTails-IT) [<img alt="Paper" src="https://api.iconify.design/mdi/file-document-outline.svg?color=%2357606a" width="16" height="16">](https://clic2025.unica.it/wp-content/uploads/2025/09/59_main_long.pdf) | CC BY-NC 4.0 |
+| **BeaverTails-IT-Evaluation** | 2025 | Italian machine-translated version of BeaverTails-Evaluation: 700 prompts spanning 14 safety categories, used with fine-tuned classifiers and human judgment to assess seven Italian LLMs. | Italian | [<img alt="Hugging Face" src="https://cdn.simpleicons.org/huggingface/FFD21E" width="16" height="16">](https://huggingface.co/datasets/MIND-Lab/BeaverTails-IT-Evaluation) [<img alt="Paper" src="https://api.iconify.design/mdi/file-document-outline.svg?color=%2357606a" width="16" height="16">](https://aclanthology.org/2025.clicit-1.91.pdf) | CC BY-NC 4.0 |
 
 ## Models
 
