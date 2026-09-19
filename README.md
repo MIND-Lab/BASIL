@@ -18,7 +18,7 @@ This repository focuses on broad, holistic AI safety in Italian, covering resour
 ### 2026
 
 - **The Effects of Benevolent Fine-tuning on the Safety of the Italian Large Language Models** &mdash; Pulerà et al., CLIC-it 2026 [[PDF](https://clic2026.unipa.it/wp-content/uploads/2026/09/82_main_long.pdf)]
-- **"Capisci a me": The Hidden Risks of Regional Language Processing in LLMs** &mdash; Magazzù et al., CLIC-it 2026 [[PDF](https://clic2026.unipa.it/wp-content/uploads/2026/09/63_main_long.pdf)] [[Code](https://github.com/saiteki-kai/safety-italian-dialects)]
+- **“Capisci a me”: The Hidden Risks of Regional Language Processing in LLMs** &mdash; Magazzù et al., CLIC-it 2026 [[PDF](https://clic2026.unipa.it/wp-content/uploads/2026/09/63_main_long.pdf)] [[Code](https://github.com/saiteki-kai/safety-italian-dialects)]
 - **Mind the Language Gap: Assessing LLM Safety in Italian** &mdash; Marafatto & Navigli, LREC 2026 [[PDF](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.365.pdf)] [[Poster](https://f003.backblazeb2.com/file/lrec-media/lrec2026/posters/1391.pdf)] [[Code](https://github.com/SapienzaNLP/SafeLLM-it)]
 - **AI Safety Lost in Translation: Evaluating the Effectiveness of English-Italian Cross-Lingual LLM Safety Alignment** &mdash; Wu & Brandao, LREC 2026 [[PDF](https://aclanthology.org/2026.lrec-1.296.pdf)]
 - **Guarding the Guardrails: A Taxonomy-Driven Approach to Jailbreak Detection** &mdash; Giarrusso et al., IASEAI 2026 [[PDF](https://arxiv.org/abs/2510.13893)]
@@ -37,11 +37,13 @@ This repository focuses on broad, holistic AI safety in Italian, covering resour
 
 ## Datasets
 
-- [SafeLLM-it](https://github.com/SapienzaNLP/SafeLLM-it)
-- [BeaverTails-IT](https://huggingface.co/datasets/MIND-Lab/BeaverTails-IT)
-- [BeaverTails-IT-Evaluation](https://huggingface.co/datasets/MIND-Lab/BeaverTails-IT-Evaluation)
-- [MMLU-Redux Dialects](https://huggingface.co/datasets/saiteki-kai/mmlu-redux-dialects)
-- [XSTest Dialects](https://huggingface.co/datasets/saiteki-kai/xstest-dialects)
+| Dataset | Year | Description | Languages | Links | License |
+| --- | --- | --- | --- | --- | --- |
+| **SafeLLM-it** | 2026 | Culturally grounded Italian safety benchmark of 1,762 manually categorized Italian Wikipedia pages and 5,286 generated prompts probing refusal behavior, moderation consistency, and unsafe content generation. | Italian | [[GitHub](https://github.com/SapienzaNLP/SafeLLM-it)] [[Paper](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.365.pdf)] | CC BY-NC-SA 4.0 |
+| **MMLU-Redux-IT** | 2026 | MMLU-Redux translated into Italian and local languages to study how dialectal input affects model understanding and safety. | Italian, Venetian, Lombard, Friulian, Ligurian, Sicilian (+ English source) | [[Hugging Face](https://huggingface.co/datasets/saiteki-kai/MMLU-Redux-IT)] [[Paper](https://clic2026.unipa.it/wp-content/uploads/2026/09/63_main_long.pdf)] | CC BY 4.0 |
+| **XSTest-IT** | 2026 | XSTest prompts translated into Italian and local languages, preserving the safe/unsafe contrast labels for dialectal safety evaluation. | Italian, Venetian, Lombard, Friulian, Ligurian, Sicilian (+ English source) | [[Hugging Face](https://huggingface.co/datasets/saiteki-kai/XSTest-IT)] [[Paper](https://clic2026.unipa.it/wp-content/uploads/2026/09/63_main_long.pdf)] | CC BY 4.0 |
+| **BeaverTails-IT** | 2025 | Italian machine-translated version of BeaverTails, with parallel translations from five state-of-the-art MT models; 330k question-answer pairs. | Italian (from English) | [[Hugging Face](https://huggingface.co/datasets/MIND-Lab/BeaverTails-IT)] [[Paper](https://clic2025.unica.it/wp-content/uploads/2025/09/59_main_long.pdf)] | CC BY-NC 4.0 |
+| **BeaverTails-IT-Evaluation** | 2025 | Italian machine-translated version of BeaverTails-Evaluation: 700 prompts spanning 14 safety categories, used with fine-tuned classifiers and human judgment to assess seven Italian LLMs. | Italian (from English) | [[Hugging Face](https://huggingface.co/datasets/MIND-Lab/BeaverTails-IT-Evaluation)] [[Paper](https://aclanthology.org/2025.clicit-1.91.pdf)] | CC BY-NC 4.0 |
 
 ## Models
 
