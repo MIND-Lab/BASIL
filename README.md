@@ -37,24 +37,6 @@ This repository focuses on broad, holistic AI safety in Italian, covering resour
 
 ## Datasets
 
-<style>
-table th:first-of-type {
-    width: 25%;
-}
-table th:nth-of-type(2) {
-    width: 5%;
-}
-table th:nth-of-type(4) {
-    width: 5%;
-}
-table th:nth-of-type(5) {
-    width: 5%;
-}
-table th:nth-of-type(6) {
-    width: 5%;
-}
-</style>
-
 | Dataset | Year | Description | Languages | Links | License |
 | --- | --- | --- | --- | --- | --- |
 | **SafeLLM-it** | 2026 | Culturally grounded Italian safety benchmark of 1,762 manually categorized Italian Wikipedia pages and 5,286 generated prompts probing refusal behavior, moderation consistency, and unsafe content generation. | Italian | [<img alt="GitHub" src="https://cdn.simpleicons.org/github/57606a" width="16" height="16">](https://github.com/SapienzaNLP/SafeLLM-it) [<img alt="Paper" src="https://api.iconify.design/mdi/file-document-outline.svg?color=%2357606a" width="16" height="16">](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.365.pdf) | CC BY-NC-SA 4.0 |
